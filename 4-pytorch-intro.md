@@ -1,0 +1,4 @@
+# 為什麼用PyTorch?
+在深度學習框架中你可能有聽過 Tensorflow ，他的概念有靜態圖以及搭建流程圖的方式來建構成經網路，缺點是難理解且還要了解整個靜態圖API。PyTorch是Torch在Python上的衍生，而 PyTorch 有更好的方式詮釋神經網路工作的流程。
+
+PyTorch
